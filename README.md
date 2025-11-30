@@ -1,1 +1,1 @@
-输出hello world
+hello world
